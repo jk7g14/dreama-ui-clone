@@ -16,8 +16,8 @@ Built with Next.js, Tailwind CSS v4, shadcn/ui, and Vercel AI Elements.
 ## Getting Started
 
 ```bash
-pnpm install
-pnpm dev
+npm install
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000).
